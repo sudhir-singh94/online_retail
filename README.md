@@ -35,7 +35,7 @@ Clustering Algorithms: Used Agglomerative Clustering for customer segmentation.
 Analysis and Business Insights: Derived actionable insights from the clusters.
 
 ## Results
-Discuss the outcomes of the project, such as the distinct clusters identified and their characteristics. Include visualizations, if possible.
+The customer base was successfully segmented into different clusters, each showing distinct purchasing behaviors. For example, one cluster represented high-spenders while another indicated customers who bought in bulk but spent less.
 
 ## Conclusion and Future Work
 The customer segmentation was successfully implemented, revealing distinct customer behaviors that can be leveraged for targeted marketing. Future work could involve re-running the model periodically to adapt to changing customer behaviors and testing the effectiveness of targeted marketing strategies.
