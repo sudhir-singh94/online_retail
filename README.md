@@ -22,9 +22,6 @@ Pandas for data manipulation
 Scikit-learn for machine learning
 Matplotlib/Seaborn for data visualization
 
-## Installation and Setup
-Provide steps for setting up the environment, installing dependencies, and running the project locally.
-
 ## Methodology
 The project involves several steps:
 
